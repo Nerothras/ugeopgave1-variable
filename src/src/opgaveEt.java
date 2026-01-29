@@ -1,5 +1,5 @@
 void main() {
-    //opgave 1
+    //Opgave 1: Shopping cart
     /*
     double itemHerring = 25.50;
     double itemButter = 15.00;
